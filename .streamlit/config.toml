@@ -1,0 +1,34 @@
+[theme]
+base = "light"
+primaryColor = "#2453D6"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#EBF0F8"
+textColor = "#0F172A"
+linkColor = "#2453D6"
+borderColor = "#DFE5EF"
+showWidgetBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+headingFontWeights = 600
+codeBackgroundColor = "#EEF2F8"
+codeTextColor = "#1E3A8A"
+dataframeHeaderBackgroundColor = "#EEF2F8"
+chartCategoricalColors = ["#2453D6", "#14B8A6", "#F59E0B", "#E5484D", "#8B5CF6", "#0B2545", "#38BDF8", "#84CC16"]
+
+[theme.sidebar]
+backgroundColor = "#0B2545"
+secondaryBackgroundColor = "#14335F"
+textColor = "#E6ECF5"
+primaryColor = "#6E95FF"
+linkColor = "#9DB8FF"
+borderColor = "#24467A"
+codeBackgroundColor = "#14335F"
+codeTextColor = "#BFD0FF"
+
+[server]
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
