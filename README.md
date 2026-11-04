@@ -1,2 +1,2 @@
-# plm-intelligence
-PLM Intelligence Challenge — traceable engineering insights from XPDMXML exports
+# plm-intelligence : Dassaults systèmes
+PLM Intelligence Challenge — traceable engineering insights from XPDM XML exports
